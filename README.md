@@ -13,7 +13,7 @@
         Sou desenvolvedor graduado em redes de computadores, especialista em engenharia de software e também especialista em desenvolvimento full stack.
     </p>
   <p>
-    Buscando nova especialização em Python
+    Atualmente me especializando na linguagem Python
   </p>
 <br>
     
