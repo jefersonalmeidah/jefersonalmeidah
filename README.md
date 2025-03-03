@@ -12,11 +12,10 @@
 ## Um pouco sobre mim 
 <div>
     <p>
-        Sou desenvolvedor graduado em redes de computadores, especialista em engenharia de software e também especialista em desenvolvimento full stack.
+        Com pouco mais de 5 anos de experiência na área de tecnologia, minha trajetória abrange desde a administração de redes até o desenvolvimento de soluções avançadas para automação de processos. Através destes que me familiarizei com a linguagem Python e adquiri              habilidade para criar soluções eficientes para problemas complexos. Meu interesse como profissional é transformar ideias em sistemas funcionais, aplicando as melhores práticas de desenvolvimento e sempre buscando inovação. Possuo graduação em redes de                      computadores. e especialização em engenharia de software e também em desenvolvimento full stack.
+        Atualmente, busco oportunidades que me permitam aplicar minhas habilidades em Python para
+        resolver desafios tecnológicos
     </p>
-  <p>
-    Atualmente me especializando na linguagem Python
-  </p>
 <br>
     
 ## Stack
