@@ -7,6 +7,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonalmeidah&layout=compact&langs_count=7&theme=radical)
 
+![Image](https://github.com/user-attachments/assets/702c22b8-8235-47c4-af1d-0b695f108c8e)
+
 ## Um pouco sobre mim 
 <div>
     <p>
